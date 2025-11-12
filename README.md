@@ -92,11 +92,6 @@ O resultado esperado é um **relatório de análise estatística descritiva e in
 ## 👩‍💻 5. Autora
 
 **Myrelle Torres**  
-Tradutora e Analista de Dados em formação.  
-Apaixonada por linguagens — humanas e de programação — e por transformar dados em narrativas claras e acionáveis.  
-
-📫 [linkedin.com/in/myrelletorres](https://linkedin.com/in/myrelletorres)
-
 ---
 
 ## 🗂️ 6. Estrutura do Projeto
@@ -104,8 +99,6 @@ Apaixonada por linguagens — humanas e de programação — e por transformar d
 MiniProjeto3/
 │
 ├── MiniProjeto3.ipynb # Notebook principal do projeto
-├── data/ # (opcional) pasta para datasets
-├── img/ # (opcional) gráficos e visualizações
 └── README.md # documentação do projeto
 
 

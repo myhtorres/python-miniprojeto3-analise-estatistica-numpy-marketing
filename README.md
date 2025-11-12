@@ -1,6 +1,6 @@
 # 🧠 Mini-Projeto 3 — Análise Estatística de Dados com NumPy para a Área de Marketing
 
-Projeto desenvolvido durante meus estudos de **Python para Análise de Dados**, com o objetivo de aplicar técnicas estatísticas e ferramentas da linguagem Python (principalmente **NumPy** e **Pandas**) em um contexto de **negócios e marketing digital**.
+Projeto desenvolvido durante o curso Fundamentos de Linguagem Python — Do Básico a Aplicações de IA, da Data Science Academy (DSA), com o objetivo de aplicar técnicas estatísticas e ferramentas da linguagem Python (principalmente **NumPy** e **Pandas**) em um contexto de **negócios e marketing digital**.
 
 ---
 

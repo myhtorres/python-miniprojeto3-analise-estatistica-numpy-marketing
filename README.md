@@ -97,8 +97,11 @@ O resultado esperado é um **relatório de análise estatística descritiva e in
 ## 🗂️ 6. Estrutura do Projeto
 
 MiniProjeto3/
+
 │
+
 ├── MiniProjeto3.ipynb # Notebook principal do projeto
+
 └── README.md # documentação do projeto
 
 
